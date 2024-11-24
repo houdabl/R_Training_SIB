@@ -11,26 +11,26 @@ This material introduces R and RStudio (a development environment for R) in an i
 ## Prerequisites
 Before diving into the material, ensure you have:
 
-* R installed (available here)
-* RStudio installed (available here)
+* **R** installed (available here : https://cran.r-project.org/)
+* **RStudio** installed (available here : https://www.rstudio.com/products/rstudio/download/)
 
-# Organization
+## Organization
 The course content is divided into two main parts, corresponding to the two days of training:
 
-Day 1: Basics of R
+**Day 1**: Basics of R
        Getting started with R and RStudio
        Understanding common data types in R
        Reading and writing data files
-Day 2: Visualization and Statistical Analysis
+**Day 2**: Visualization and Statistical Analysis
        Creating and customizing data visualizations
        Performing basic statistical analysis in R
 (Note: This is not a statistics course, but an introduction to R's statistical tools.)
 
-# Resources in this Repository
+## Resources in this Repository
 Slides: A mix of theory and hands-on instructions.
 Data: Example datasets for practice, located in the course_datasets/ folder.
 Solutions: Code solutions for practical exercises in the solutions/ folder (Note: Sessions 1 and 2 don’t have code).
 
-# My Contributions
+## My Contributions
 I am reproducing and applying the concepts from the course, documenting my learning journey here. Feel free to explore the materials and examples, and use them as a resource for your own learning. Any insights or improvements are welcome!
 
