@@ -27,10 +27,11 @@ The course content is divided into two main parts, corresponding to the two days
 (Note: This is not a statistics course, but an introduction to R's statistical tools.)
 
 ## Resources in this Repository
-Slides: A mix of theory and hands-on instructions.
-Data: Example datasets for practice, located in the course_datasets/ folder.
-Solutions: Code solutions for practical exercises in the solutions/ folder (Note: Sessions 1 and 2 don’t have code).
+* Slides: A mix of theory and hands-on instructions.
+* Data: Example datasets for practice, located in the datasets/ folder.
+Solutions: Code solutions for practical exercises in the solutions/ folder.
 
 ## My Contributions
 I am reproducing and applying the concepts from the course, documenting my learning journey here. Feel free to explore the materials and examples, and use them as a resource for your own learning. Any insights or improvements are welcome!
 
+**Note** : I have not reproduced all the course material. If you want to access the full training content, you can find it here : https://github.com/sib-swiss/first-steps-with-R-training
